@@ -1,0 +1,8 @@
+1.-En la clase DisplayImage se debe modificar la dirección que va hacia el escritorio por la correspondiente a la computadora donde se van a hacer las pruebas. "C:\Users\jSeba\Cartas"
+
+2.-La carpeta que contiene las cartas se pone en el escritorio
+
+3.-Para cargar las BD de forma rápida guardarlas en la raíz de una USB y usar el
+comando "SOURCE G:nombreDeLaBD.txt" sin las comillas, siendo G el nombre del puerto donde se ubica la USB.
+
+4.-En esta versión no es necesario iniciar los servidores en orden S1,S2 y S3

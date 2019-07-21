@@ -1,0 +1,5 @@
+1.-Modificar la ruta de la carpeta "cartas" ubicada en la clase DisplayImage de cada servidor, de preferencia pongan la carpeta en el escritorio, copien y peguen la ruta, sustituyendo la parte donde esta algo como "C:\\Users\\Jseba\\Desktop..."
+
+2.-El servidor 2 también debe incluir la ip del servidor 1.
+
+3.-El servidor 1 siempre se inicia primero.
